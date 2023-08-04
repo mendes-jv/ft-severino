@@ -21,5 +21,5 @@ Após, clonar o reposiorio, você já pode usar o script
 Você também pode  criar um alias para o script colocando a seguinte linha no seu arquivo de configuração: (ex: .zshrc)
 
 ```zsh
-alias severino=~/ft-severino/ft-severino.sh
+alias severino=nfs/homes/seu_nick_da_intra/ft-severino/ft-severino.sh
 ```
