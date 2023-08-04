@@ -1,2 +1,25 @@
+<div align="center">
+
 # ft_severino
-A script that applies the norm rules used by norminette and applies the header to all files in your directory // Um script que aplica as regras de norma usadas pela norminette e aplica o header em todos os arquivos do seu diretório
+
+</div>
+
+> :brazil: Um script que impedem as máquinas da 42sp de bloquear após um tempo sem uso.
+
+## How To Use // Como usar
+
+Primeiro, clone este repositório e entre nele com o comando `cd`
+
+```zsh
+git clone https://github.com/mendes-jv/ft-norminator && cd ft-norminator
+```
+Após, clonar o reposiorio, você já pode usar o script
+```zsh
+./ft_severino.sh 
+```
+
+Você também pode  criar um alias para o script colocando a seguinte linha no seu arquivo de configuração: (ex: .zshrc)
+
+```zsh
+alias severino=~/ft-severino/ft-severino.sh
+```
