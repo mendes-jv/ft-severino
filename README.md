@@ -1,6 +1,6 @@
 <div align="center">
   
-# ft_severino
+# ft-severino
 
 </div>
 
