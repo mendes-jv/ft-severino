@@ -11,7 +11,7 @@
 Primeiro, clone este repositório e entre nele com o comando `cd`
 
 ```zsh
-git clone https://github.com/mendes-jv/ft-norminator && cd ft-norminator
+git clone https://github.com/mendes-jv/ft-severino && cd ft-severino
 ```
 Após, clonar o reposiorio, você já pode usar o script
 ```zsh
